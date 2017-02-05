@@ -36,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(https://scontent.xx.fbcdn.net/v/t31.0-8/15000233_1467225546638482_917941763766464583_o.jpg?oh=79e3ce3c4b34fcfe864a77b0912ecb78&oe=59000C88) no-repeat center center;
+    background: url(http://scontent.ftpe4-2.fna.fbcdn.net/v/t1.0-9/15940379_1312037535522363_3050497567495636760_n.jpg?oh=f80dc6ccb2cfba4e91940aedbdb076e8&oe=59112206) no-repeat center center;
     background-size: cover;
 }
 
@@ -48,7 +48,7 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.75);
+    text-shadow: 3px 3px 4px rgba(255, 255, 255, 1);
     font-size: 5em;
 }
 
@@ -59,7 +59,7 @@ h6 {
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(255,255,255,1);
 }
 
 @media(max-width:767px) {
